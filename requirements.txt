@@ -4,3 +4,4 @@ flask==1.1.1
 numpy==1.17.5
 h5py==2.10.0
 pillow
+protobuf==3.20.*
